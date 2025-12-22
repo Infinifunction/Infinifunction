@@ -1,48 +1,50 @@
-# Merhaba, ben Metehan! 👋
+# Hi there, I'm Metehan! 👋
 
-> "Modern web arayüzlerini, güçlü Python arka uç mimarisi ve akıllı AI Agent sistemleriyle birleştirerek uçtan uca dijital deneyimler tasarlıyorum."
+> "The future will be built not with black boxes that can't be seen, but with open, transparent, and understandable systems."
 
-**Hasan Aslanoba Anadolu Lisesi** öğrencisiyim. Genç bir geliştirici olarak, standart web geliştirmenin ötesine geçip; **öğrenen, karar veren ve kullanıcıyla etkileşime giren** sistemler kurmaya odaklanıyorum. Özellikle **LLM (Büyük Dil Modelleri)** entegrasyonları, **AI Agent** mimarileri ve **Full Stack** web uygulamaları üzerinde çalışıyorum.
+A passionate developer bridging the gap between modern web interfaces, robust Python backends, and intelligent AI Agent architectures.
+
+I am a student at **Hasan Aslanoba Anatolian High School**, dedicated to pushing the boundaries of traditional software. I focus on building systems that don't just display data, but **interact, learn, and solve problems** using state-of-the-art LLM (Large Language Model) integrations and AI agentic workflows.
 
 ---
 
-### 🛠️ Yetenekler ve Teknolojiler
+### 🛠️ Skills & Toolbox
 
-Modern yazılım geliştirme süreçlerinde kullandığım araçlar:
+The technologies I use to bring ideas to life:
 
-| Alan | Teknolojiler |
+| Category | Tech Stack |
 | :--- | :--- |
-| **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Backend & Cloud** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Yapay Zeka (AI)** | ![Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat) ![Nvidia NIM](https://img.shields.io/badge/Nvidia%20NIM-76B900?style=flat&logo=nvidia&logoColor=white) **Agent Architecture** |
-| **Araçlar** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) |
+| **Artificial Intelligence** | ![Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat) ![Nvidia NIM](https://img.shields.io/badge/Nvidia%20NIM-76B900?style=flat&logo=nvidia&logoColor=white) **Agent Architecture** |
+| **Deployment & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) |
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
+### 🚀 Featured Projects
 
-Şu anda geliştirmekte olduğum ve yayınladığım bazı çalışmalar:
+Here are some of the projects I’ve been working on:
 
 #### 1. 🤖 Hybrid AI Chatbot (Web & Local)
-Hem yerel ağda (Localhost) hem de **Cloudflared** tünelleme teknolojisi ile internet üzerinde çalışabilen gelişmiş bir sohbet botu.
-* **Teknolojiler:** Python, Flask, JS, HTML/CSS.
-* **Özellik:** **Nvidia NIM API** entegrasyonu sayesinde yüksek performanslı LLM yanıtları üretir. Responsive ve modern bir arayüze sahiptir.
+An advanced chatbot application that can be deployed both locally and via **Cloudflared** tunnels for global access.
+* **Tech Stack:** Python, Flask, JS, HTML/CSS.
+* **Key Feature:** Integrated with **Nvidia NIM API** for high-performance LLM responses, featuring a sleek, responsive UI.
 
-#### 2. 🧠 Autonomous AI Agent (Geliştirme Aşamasında 🚧)
-Sadece sohbet eden değil, **aksiyon alabilen** akıllı bir asistan. Python ve **Gemini API** üzerine inşa edilmiştir.
-* **Yetenekleri:**
-    * 📰 Güncel haberleri ve oyun dünyasındaki gelişmeleri takip eder.
-    * ⏰ Saat, tarih ve anlık hava durumu bilgisini sağlar.
-    * 🔍 **Wikipedia** üzerinde araştırma yapıp özet çıkarır.
-    * *Ve çok daha fazlası geliştiriliyor...*
+#### 2. 🧠 Autonomous AI Agent (In Progress 🚧)
+A sophisticated assistant that goes beyond simple chat by performing **autonomous actions**. Built with Python and **Gemini API**.
+* **Capabilities:**
+    * 📰 Monitors trending news and gaming industry updates.
+    * ⏰ Provides real-time weather and time information.
+    * 🔍 Conducts research and summarizes information via **Wikipedia**.
+    * *More features being added regularly...*
 
 #### 3. 🔐 Modern Auth UI
-Kullanıcı deneyimi (UX) odaklı, estetik ve güvenli giriş/kayıt arayüzleri.
-* Modern CSS teknikleri ve interaktif JavaScript validasyonları içerir.
+A clean and professional Login/Register interface focused on user experience (UX).
+* Built with modern CSS techniques and interactive JavaScript validation.
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Infinifunction&show_icons=true&theme=radical" height="150" alt="stats graph"  />
@@ -51,11 +53,11 @@ Kullanıcı deneyimi (UX) odaklı, estetik ve güvenli giriş/kayıt arayüzleri
 
 ---
 
-### 📫 İletişim
+### 📫 Let's Connect!
 
-Projelerim hakkında konuşmak veya iş birliği yapmak isterseniz bana ulaşabilirsiniz:
+I'm always open to discussing new projects, AI research, or tech collaborations.
 
 * 📧 **Email:** [infinifunction@infinifunction.qzz.io](mailto:infinifunction@infinifunction.qzz.io)
 
 ---
-<p align="center">⭐️ Bu profili beğendiyseniz projelerime yıldız vermeyi unutmayın!</p>
+<p align="center">⭐️ Feel free to star my repositories if you find my work helpful!</p>
