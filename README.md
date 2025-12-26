@@ -30,13 +30,14 @@ An advanced chatbot application that can be deployed both locally and via **Clou
 * **Tech Stack:** Python, Flask, JS, HTML/CSS.
 * **Key Feature:** Integrated with **Nvidia NIM API** for high-performance LLM responses, featuring a sleek, responsive UI.
 
-#### 2. 🧠 Autonomous AI Agent (In Progress 🚧)
-A sophisticated assistant that goes beyond simple chat by performing **autonomous actions**. Built with Python and **Gemini API**.
+#### 2. 🧠 Autonomous Desktop Agent
+A fully capable multimodal AI agent powered by Google Gemini 2.5 Flash. It can see your screen, hear you, and control the operating system just like a human user.
+* **Tech Stack:** Python, Google GenAI SDK, Selenium, PyAutoGUI, OpenCV.
 * **Capabilities:**
-    * 📰 Monitors trending news and gaming industry updates.
-    * ⏰ Provides real-time weather and time information.
-    * 🔍 Conducts research and summarizes information via **Wikipedia**.
-    * *More features being added regularly...*
+    * 👁️ **Multimodal Perception:** Real-time screen analysis and camera input via mss and cv2.
+    * 🖱️ **Full HID Control:** Autonomous mouse movement, clicking, dragging, and keyboard typing.
+    * ⚙️ **System Management:** Can open/close apps, manage files, and control system settings (volume/brightness).
+    * 📰 **Live Information:** Fetches real-time weather, news, and gaming updates.
 
 #### 3. 🔐 Modern Auth UI
 A clean and professional Login/Register interface focused on user experience (UX).
