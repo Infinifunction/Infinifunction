@@ -58,7 +58,7 @@ A clean and professional Login/Register interface focused on user experience (UX
 
 I'm always open to discussing new projects, AI research, or tech collaborations.
 
-* 📧 **Email:** [infinifunction@infinifunction.qzz.io](mailto:infinifunction@infinifunction.qzz.io)
+* 📧 **Email:** [infinifunctionstudios@outlook.com](infinifunctionstudios@outlook.com)
 
 ---
 <p align="center">⭐️ Feel free to star my repositories if you find my work helpful!</p>
