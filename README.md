@@ -198,13 +198,7 @@ I enjoy the process of investigating a problem, testing possible approaches, and
 
 ## 💡 My Development Philosophy
 
-> Understand the system. Challenge the defaults. Build your own solution.
-
-I believe meaningful software development is about more than writing code. It is about understanding systems, identifying limitations, making informed design decisions, and continuously improving the way things work.
-
-I value experimentation, maintainable architecture, useful interfaces, and the freedom to explore ideas across different areas of technology.
-
-I'm especially interested in projects where **AI, automation, infrastructure, and application development intersect**.
+> "The future will be built not with black boxes that can't be seen, but with open, transparent, and understandable systems."
 
 ---
 
