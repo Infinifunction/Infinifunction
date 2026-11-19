@@ -128,7 +128,7 @@ InfiniNET reflects my interest in networking beyond ordinary application develop
 
 ### 🔐 Web Interfaces & Application Design
 
-#### 6. [ModernAuthenticationUI](https://github.com/Infinifunction/ModernAuthenticationUI)
+#### 5. [ModernAuthenticationUI](https://github.com/Infinifunction/ModernAuthenticationUI)
 
 A modern authentication interface project centered on clean presentation and user experience.
 
