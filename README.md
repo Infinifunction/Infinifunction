@@ -122,31 +122,7 @@ InfiniNET reflects my interest in networking beyond ordinary application develop
 
 [Explore the repository →](https://github.com/Infinifunction/InfiniNET)
 
----
 
-### 🎮 FiveM, txAdmin & Server Tooling
-
-#### 5. Custom txAdmin Panel Development
-
-One of my ongoing development interests is **customizing txAdmin for a more tailored FiveM server administration experience**.
-
-Rather than treating the admin panel as an unchangeable interface, I have been working with its frontend development workflow to explore deeper UI customization and localization.
-
-**Areas I've worked on:**
-- Custom branding, logos, and panel identity.
-- React and TypeScript frontend customization.
-- Vite-based development and live preview workflows.
-- Modular Turkish and English localization.
-- Organizing translation keys by interface component.
-- Improving translated menus, dialogs, notifications, and action messages.
-- Debugging missing translations and runtime UI issues.
-- Exploring a development-to-production workflow for custom panel builds.
-
-**Technologies:** React, TypeScript, Vite, JavaScript, CSS, txAdmin, FiveM.
-
-My goal is to make the administration experience feel cohesive and purpose-built for the server, while keeping the codebase maintainable and easier to extend.
-
-*This is a customization and development effort, not an official txAdmin product.*
 
 ---
 
