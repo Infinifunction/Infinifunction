@@ -6,7 +6,7 @@ I build software that goes beyond static interfaces — from **AI-powered deskto
 
 I'm an independent developer interested in understanding how systems work under the hood, connecting different technologies, and turning ambitious ideas into functional software.
 
-My work spans **Artificial Intelligence, Python development, web engineering, network services, automation, and FiveM server customization**. I enjoy working across the stack, experimenting with new architectures, and building solutions rather than relying entirely on off-the-shelf tools.
+My work spans **Artificial Intelligence, Python development, web engineering, network services and automation**. I enjoy working across the stack, experimenting with new architectures, and building solutions rather than relying entirely on off-the-shelf tools.
 
 - 🤖 **AI & Agentic Systems** — Building AI assistants, multimodal agents, and tool-enabled workflows.
 - 🌐 **Network & Backend Engineering** — Experimenting with networking services, APIs, monitoring, and system administration.
